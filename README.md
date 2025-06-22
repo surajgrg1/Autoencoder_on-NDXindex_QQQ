@@ -1,4 +1,4 @@
-# 📊 NDX Portfolio Optimization using Autoencoder & Communality Analysis
+# NDX Portfolio Optimization using Autoencoder & Communality Analysis
 
 This project explores the use of an **autoencoder neural network** to analyze return patterns in the **Nasdaq-100 Index (NDX)** using data from the **QQQ ETF**. The goal is to determine whether a smaller portfolio composed of stocks with shared or unique return structures can replicate the performance of the full index.
 
