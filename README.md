@@ -78,9 +78,8 @@ Two portfolios were created using different groupings of stocks:
 
 ## 📁 Included Files
 
-- `VolatilitySurface_Python2.html`: Neural network model & training logs
 - `Project_Autoencoder.html`: Autoencoder implementation & communality analysis
-- `Project_Description-2.pdf`: Project instructions and context
+- `holdings_1750537492999.csv`: Data on QQQ ETF downloaded from NDX
 
 ---
 
